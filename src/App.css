@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  scroll-behavior: smooth;
+}
+
+.rdrDefinedRangesWrapper {
+  display: none;
+}
